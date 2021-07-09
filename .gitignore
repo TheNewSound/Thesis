@@ -1,0 +1,8 @@
+# .gitignore
+node/output/
+node/node_modules/
+.idea
+node/.idea
+python/cache/
+python/output/
+node/cache/
